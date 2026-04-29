@@ -2,7 +2,7 @@
 
 This repository contains my personal data science portfolio website, built using a static site generator and deployed via GitHub Pages.
 
-## 🌐 Live Website
+## Live Website
 https://Xingtia2.github.io
 
 ## Overview
@@ -17,7 +17,7 @@ Each project includes:
 - Key results
 - Visual insights
 
-## 🛠 Built With
+## Built With
 - Python
 - YAML-based content system
 - HTML/CSS (static site)
