@@ -1,0 +1,26 @@
+title: "Advanced Data Visualization Project"
+
+short_summary: >
+  Designed and improved multiple data visualizations to communicate complex patterns
+  using real-world datasets.
+
+tech_stack:
+  - Python
+  - pandas
+  - matplotlib
+  - seaborn
+
+problem_statement: >
+  Communicating multi-dimensional data clearly is challenging. This project focuses on
+  designing visualizations that effectively present complex information.
+
+approach: >
+  Created multiple visualization types including scatter plots, multi-panel layouts,
+  and animated visualizations. Applied best practices from data visualization literature.
+
+results_impact: >
+  The final visualizations reveal patterns in global development and emissions data,
+  demonstrating strong data storytelling and visualization design skills.
+
+repo_url: "https://github.com/Xingtia2/cmse402-data-visualization-project"
+image_path: "img/viz_project.png"

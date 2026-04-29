@@ -1,0 +1,26 @@
+title: "Customer Churn Analysis Project"
+
+short_summary: >
+  Analyzed customer churn behavior in the telecommunications industry using data
+  visualization and exploratory data analysis.
+
+tech_stack:
+  - Python
+  - pandas
+  - matplotlib
+  - seaborn
+
+problem_statement: >
+  Understanding why customers leave a service is critical for improving retention.
+  This project investigates key factors influencing customer churn.
+
+approach: >
+  Performed exploratory data analysis and created visualizations to identify patterns
+  and relationships in customer behavior.
+
+results_impact: >
+  The project provides insights into customer churn drivers and demonstrates how
+  data visualization can support decision-making.
+
+repo_url: "https://github.com/Xingtia2/cmse402-semester-project"
+image_path: "img/churn_features.png"

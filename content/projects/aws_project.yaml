@@ -1,0 +1,25 @@
+title: "AWS Cloud Computing Project"
+
+short_summary: >
+  Built a cloud-based data analysis workflow using AWS services to process and analyze
+  real-world data.
+
+tech_stack:
+  - AWS S3
+  - AWS Athena
+  - SQL
+
+problem_statement: >
+  Large datasets are often difficult to process locally. This project explores how cloud-based
+  tools can be used to efficiently query and analyze data.
+
+approach: >
+  Uploaded datasets to AWS S3, created tables in Athena, and used SQL queries to analyze
+  patterns in service request data.
+
+results_impact: >
+  The project demonstrates how cloud computing can be used to quickly extract insights
+  from large datasets and support data-driven decisions.
+
+repo_url: "https://github.com/Xingtia2/aws-nyc311-Xingtia2"
+image_path: "img/aws_athena_result.png"
